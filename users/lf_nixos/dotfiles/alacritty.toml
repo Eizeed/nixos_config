@@ -1,0 +1,45 @@
+[colors.bright]
+black = "#6b6b6b"
+blue = "#82b8c8"
+cyan = "#93d3c3"
+green = "#aac474"
+magenta = "#c28cb8"
+red = "#c55555"
+white = "#f8f8f8"
+yellow = "#feca88"
+
+[colors.normal]
+black = "#181818"
+blue = "#6a9fb5"
+cyan = "#75b5aa"
+green = "#90a959"
+magenta = "#aa759f"
+red = "#ac4242"
+white = "#d8d8d8"
+yellow = "#f4bf75"
+
+[colors.primary]
+background = "#181818"
+foreground = "#d8d8d8"
+
+[font]
+size = 12.5
+
+[font.bold]
+family = "Fira Code Nerd Font"
+style = "Bold"
+
+[font.italic]
+family = "Fira Code Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "Fira Code Nerd Font"
+style = "Regular"
+
+[window]
+decorations = "full"
+opacity = 1
+blur = false
+padding = { x = 15, y = 10 }
+title = "Alacritty"
